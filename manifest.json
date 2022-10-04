@@ -10,7 +10,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "assets/favicon.ico",
+      "src": "assets/favicon.png",
       "type": "image/phone_icon"
     }
   ]
